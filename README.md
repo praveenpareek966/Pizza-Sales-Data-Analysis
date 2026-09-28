@@ -67,10 +67,10 @@ The second page focuses on detailed product performance:
 ## 📷 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Screenshot%202026-09-28%20135154.png)
+![Executive Overview](dashboard-page-1.png)
 
 ### Pizza Performance Analysis
-![Pizza Performance](Screenshot%202026-09-28%20135154.png)
+![Pizza Performance](dashboard-page-2.png)
 
 ## 📂 Project Files
 - Power BI Dashboard screenshots
